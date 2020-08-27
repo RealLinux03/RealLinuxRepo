@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-
 Hello
 Jaeyoung LEEEEE
